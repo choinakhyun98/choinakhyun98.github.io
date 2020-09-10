@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: 'Profile'
+url: 'https://choinakhyun98.github.io.'
+baseurl: '/'
+
+author: 
+  name: 'choi profile'
